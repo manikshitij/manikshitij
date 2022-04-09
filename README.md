@@ -16,11 +16,11 @@
 
 - 👯 I’m looking to collaborate on any open source project 
 
-- 🌱 I’m currently learning electron.js 
+- 🌱 I’m currently learning design thinking
 
 - 📫 How to reach me LinkedIn (Duh!)
 
-- 💬 Talk to me about Computer Vision 
+- 💬 Talk to me about Rockets (Yes!! I am serious)
 
 - 📄 Know about my experiences <a href= 'manikshitij.github.io/assets/resume.pdf'> here </a>
 
